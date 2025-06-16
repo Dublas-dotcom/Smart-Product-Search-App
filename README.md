@@ -3,9 +3,6 @@
 
 A JavaScript-powered mini e-commerce frontend that demonstrates core web developer algorithms in action — including search, debounce, sorting, deduplication, frequency counting, and more.
 
-## 🚀 Live Demo
-
-[Click here to view live](#) <!-- Add GitHub Pages or deployment link -->
 
 ---
 
@@ -50,15 +47,6 @@ cd smart-product-search
 2. Open in browser
 Just open index.html in your browser. No dependencies required.
 
-🧪 Want to Contribute?
-Add filter-by-category logic
-
-Connect to backend (Node.js or Firebase)
-
-Add user favorites or cart system
-
-Pull requests welcome! 💙
-
 📚 Built With
 💻 HTML, CSS, JavaScript
 
@@ -67,6 +55,6 @@ Pull requests welcome! 💙
 ✨ Creativity & Algorithms
 
 🧑‍💻 Author
-[Your Name] – @yourhandle
+[mthokozisi] – mthokozisicarvin@gmail.com
 Feel free to connect or suggest improvements!
 
