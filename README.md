@@ -33,4 +33,40 @@ A JavaScript-powered mini e-commerce frontend that demonstrates core web develop
 ---
 
 ## 🗂️ File Structure
+smart-product-search/
+├── index.html # App UI
+├── style.css # Basic styling
+└── script.js # All core logic & algorithms
+
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/yourusername/smart-product-search.git
+cd smart-product-search
+2. Open in browser
+Just open index.html in your browser. No dependencies required.
+
+🧪 Want to Contribute?
+Add filter-by-category logic
+
+Connect to backend (Node.js or Firebase)
+
+Add user favorites or cart system
+
+Pull requests welcome! 💙
+
+📚 Built With
+💻 HTML, CSS, JavaScript
+
+🤖 Pure frontend logic (no frameworks)
+
+✨ Creativity & Algorithms
+
+🧑‍💻 Author
+[Your Name] – @yourhandle
+Feel free to connect or suggest improvements!
 
